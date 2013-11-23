@@ -53,7 +53,7 @@ try:
 	rows=file.readlines() 	#get each line in rows as a list
 	for rwd in rows:
 		rwd= rwd.strip().split(';') #split each line using ; as a delim, and strip ending newline, and make rw an array of the output parts
-		#print rwd[1],rwd[3]
+		#print rwd[1],rwd[3] #testing values
 		
 	#rwd format: 		ARTIST | SONG TITLE | GENRE | SONG_PATH
 	#getting collate error
