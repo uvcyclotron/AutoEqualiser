@@ -1,6 +1,0 @@
-Jimmy Eat World;Bleed American;Flunk;D:\Data\Github\AutoEqualiser\01 Bleed American.mp3
-Switchfoot;Oh! Gravity;Alt. Rock;D:\Data\Github\AutoEqualiser\01 Oh! Gravity.mp3
-Wolfmother;Woman;Hard Rock;D:\Data\Github\AutoEqualiser\03 Woman.mp3
-Cake;The Distance;Rock;D:\Data\Github\AutoEqualiser\2-03 The Distance.mp3
-Beastie Boys;Sabotage;Mixtape;D:\Data\Github\AutoEqualiser\5-475 Sabotage.mp3
-Zaz;#5 - piece for 3 flutes and piano;Grunge;D:\Data\Github\AutoEqualiser\zaz.mp3
